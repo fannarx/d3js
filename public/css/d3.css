@@ -4,11 +4,6 @@ body{
 }
 
 .bar {
-  display: inline-block;
-  width:20px;
-  height: 75px;
-  margin-right:2px;
-  fill: red;
 }
 #chartArea svg{
   background-color:#ccc;
